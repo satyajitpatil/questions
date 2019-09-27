@@ -1,0 +1,54 @@
+what is wora - write once run anywhere
+features of java?
+answer:
+	what is portability - architecture neutral(like phone,pc,tablet)
+	what is platform independence - platforms(on which code,softwares runs like code on operating system.games on engines)
+	multi threading
+	network savy
+	secure
+	robust
+
+what is interpretation
+what is benefit of interpretation
+
+java is slower than c,c++
+
+(just in time ) hotspot compiler
+
+
+abstraction
+encapsulation 
+polymorphmism
+	-> overloading
+	-> overriding
+
+
+relation between abstraction and encapsultion
+
+overloading between parent and child
+
+do private members get inherited - no
+
+why extend a class - avoids creating multiple objects
+
+for loops require same data type if more than one variable is required
+
+static import?
+
+multithreading datatypes: atomic integer, atomic double
+
+exception parent class is throwable
+
+error vs exception
+
+
+
+
+
+
+
+
+features in releases
+NIO: new IO =>1.5
+
+binary pattern storage =>1.7

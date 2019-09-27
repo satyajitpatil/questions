@@ -1,0 +1,34 @@
+types of collections
+list:
+linkedlist
+arraylist
+vector
+stack
+
+queue:
+priority queue
+
+deque:
+arraydeque
+
+set:
+hashset(hashing based)
+linked hash set
+
+sortedset:
+treeset(balanced bst based)
+
+
+Advantages of Collection Framework:
+	Consistent API : The API has a basic set of interfaces like Collection, Set, List, or Map. All classes (ArrayList, LinkedList, Vector, etc) that implement these interfaces have some common set of methods.
+Reduces programming effort: A programmer doesn’t have to worry about the design of Collection, and he can focus on its best use in his program.
+Increases program speed and quality: Increases performance by providing high-performance implementations of useful data structures and algorithms.
+
+
+set: doesnt allow duplicates values,
+
+
+In Java, characters are stored using Unicode conventions. Character stream is useful when we want to process text files. These text files can be processed character by character. A character size is typically 16 bits.
+
+
+Byte oriented reads byte by byte.  A byte stream is suitable for processing raw data like binary files.
